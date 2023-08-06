@@ -1,0 +1,55 @@
+body{
+    background-image:linear-gradient( rgb(216, 149, 149),blue);
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    background-color:blueviolet;
+    background-size: cover;
+    text-align: center;
+    color: blanchedalmond ;
+}
+ul li{
+    display: inline;
+    color: yellow;
+   
+    padding:30px;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+#home{
+    text-align: center;
+    color: blanchedalmond;
+}
+#home img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+#bio{
+    text-align: center;
+    color: blanchedalmond;
+}
+#portfolio{
+    text-align: center;
+    color: blanchedalmond;
+}
+#skills{
+    text-align: center;
+    color: blanchedalmond;
+}
+#contact{
+    text-align: center;
+    color: blanchedalmond;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: blanchedalmond;
+}
+h2{
+    background-color: black;
+}
